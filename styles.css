@@ -143,3 +143,15 @@ h4{
 .rating .fa{
     color: #ff523b;
 }
+/* -------------Offer Section CSS Code Started From Here */
+.offer{
+    background: radial-gradient(#fff,#fcfbfb);
+    margin-top: 80px;
+    padding: 30px 0;
+}
+.col-2 .offer-img{
+    padding: 50px;
+}
+small{
+    color: #555;
+}
